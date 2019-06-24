@@ -14,9 +14,9 @@ npm install express
 
 ## 中间件
 
-### body-parser + cookie-parser + multer + mysql
+### body-parser + cookie-parser + multer + mysql + moment
 ```
-npm install body-parser cookie-parser multer mysql
+npm install body-parser cookie-parser multer mysql moment
 ```
 
 ## 线上地址
