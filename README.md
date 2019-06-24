@@ -1,4 +1,4 @@
-#node
+# node
 
 ### 用node.js做的仿天猫app后台
 ##### 有问题联系我qq:981865106
@@ -24,4 +24,4 @@ npm install body-parser cookie-parser multer mysql
 ### https://m.xiegaojun.cn
 
 ## 提示
-### shop_order表里的state字段说明：-1删除订单 0购物车 1待支付 2待评价 3已评价
+### shop_order表里的state字段说明：-1删除订单 0购物车 1待支付 2待评价 3已
